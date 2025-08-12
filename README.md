@@ -14,9 +14,9 @@ The goal is to create a distraction-free environment that maximizes screen real 
 | **Window Manager** | [dwm](https://dwm.suckless.org/) | Dynamic Window Manager. Tiling, simple, and configured in C. |
 | **Terminal Emulator**| [st](https://st.suckless.org/) | Simple Terminal. Lightweight and resource-efficient. |
 | **App Launcher** | [dmenu](https://tools.suckless.org/dmenu/) | Dynamic Menu. Fast, keyboard-driven application launcher. |
-| **Text Editor** | [Neovim](https://neovim.io/) | Hyperextensible Vim-based text editor. |
+| **Text Editor** | [Dom Emacs](https://github.com/doomemacs/doomemacs) | The BEST text editor. |
 | **Shell** | `zsh` | The Z shell with a minimal, custom configuration. |
-| **Status Bar** | `slstatus` / `custom script` | A simple script that pipes system info to `dwm`'s status bar. |
+| **Status Bar** | `slstatus` | A simple script that pipes system info to `dwm`'s status bar. |
 
 ## TODO
 
