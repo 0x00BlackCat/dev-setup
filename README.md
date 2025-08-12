@@ -22,6 +22,10 @@ The goal is to create a distraction-free environment that maximizes screen real 
 
 Make a installation script for installing dependencies and the dotfiles itself.
 
+## Usage
+
+For now you can install gnu-stow and install the dependencies manually, to use stow just go to the main folder and type `stow .` this is going to symlink the dotfiles.
+
 ## License
 
 This project is licensed under the MIT License.
