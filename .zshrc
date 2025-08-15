@@ -45,7 +45,7 @@ alias psa='ps auxf' psgrep='ps aux | grep -v grep | grep -i -e VSZ -e' psmem='ps
 alias jctl='journalctl -p 3 -xb'
 
 # Shell integrations
-export MANPAGER='emacs +Man!'
+export MANPAGER='nvim +Man!'
 source <(zoxide init --cmd cd zsh)
 source <(fzf --zsh)
 
